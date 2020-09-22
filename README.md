@@ -11,4 +11,4 @@ live server\
 markdown table formatter\
 markdown-formatter\
 one dark pro\
-php intelephense
+laravel pack
