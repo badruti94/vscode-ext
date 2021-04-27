@@ -11,6 +11,14 @@ live server\
 markdown table formatter\
 markdown-formatter\
 one dark pro\
-laravel pack
+laravel pack\
+php intelephense\
+
 tabnine\
-df
+
+dotenv\
+dracula\
+es7 react\
+eslint\
+mysql\
+tailwind css intellisense\
