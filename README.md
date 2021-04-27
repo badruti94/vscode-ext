@@ -12,9 +12,9 @@ markdown table formatter\
 markdown-formatter\
 one dark pro\
 laravel pack\
-php intelephense\
+php intelephense
 
-tabnine\
+tabnine
 
 dotenv\
 dracula\
