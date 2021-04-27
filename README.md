@@ -12,3 +12,4 @@ markdown table formatter\
 markdown-formatter\
 one dark pro\
 laravel pack
+tabnine\
