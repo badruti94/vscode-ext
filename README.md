@@ -21,4 +21,4 @@ dracula\
 es7 react\
 eslint\
 mysql\
-tailwind css intellisense\
+tailwind css intellisense
